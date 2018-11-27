@@ -1,0 +1,14 @@
+Date/Time	Error Code	Error Details	Caller	Comment	Stopped	ClusterString	
+181127 152610	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181127 152443	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181127 114521	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181127 113905	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181127 113853	1556	In Place Element Structure in Umgebung.lvclass:Umgebung.KalenderUhr.vi->Simulation.lvclass:Simulation.CalcNextIteration.vi->Simulation.lvclass:Simulation.Main.vi	Simulation.lvclass:Simulation.Main.vi		Reset	In Place Element Structure in Umgebung.lvclass:Umgebung.KalenderUhr.vi->Simulation.lvclass:Simulation.CalcNextIteration.vi->Simulation.lvclass:Simulation.Main.vi	0
+181127 113853	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181127 113748	1144	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	MainUI.vi		Reset	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	0
+181127 113747	1144	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	MainUI.vi		Reset	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	0
+181127 113745	1144	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	MainUI.vi		Reset	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	0
+181127 112444	1144	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	MainUI.vi		Reset	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	0
+181127 112444	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181127 111908	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181127 111902	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
