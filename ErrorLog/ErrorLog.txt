@@ -1,4 +1,9 @@
 Date/Time	Error Code	Error Details	Caller	Comment	Stopped	ClusterString	
+181127 223236	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181127 223101	0	ErrorHandler Ref Not Found	Simulation.lvclass:Simulation.Main.vi		Reset	ErrorHandler Ref Not Found	0
+181127 223101	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181127 222754	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181127 222700	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
 181127 152610	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
 181127 152443	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
 181127 114521	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
