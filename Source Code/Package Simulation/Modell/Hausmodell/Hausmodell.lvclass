@@ -108,13 +108,13 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Hausmodell.Raumtemperatur.vi" Type="VI" URL="../Hausmodell.Raumtemperatur.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;.!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0661!"!!!!$*!=!!?!!!5%EBB&gt;8.N&lt;W2F&lt;'QO&lt;(:D&lt;'&amp;T=Q!!%EBB&gt;8.N&lt;W2F&lt;'QO&lt;(:D&lt;'&amp;T=Q!!'U"Q!#!!!1!&amp;!!Z)986T&lt;7^E:7RM)%^66!!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A35Y!!"F!#A!35W^M98*F)%&gt;F&gt;WFO&lt;G5A7V&gt;&gt;!!!&lt;1!I!&amp;5&amp;V=X.F&lt;H2F&lt;8"F=G&amp;U&gt;8)A7\"$81!:1(!!)!!"!!5!$5BB&gt;8.N&lt;W2F&lt;'QA35Y!6!$Q!!Q!!Q!%!!1!"A!%!!1!"!!%!!=!#!!*!!I$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!+!!!!#A!!!!A!!!!!!1!,!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;0!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0661!"!!!!$*!=!!?!!!5%EBB&gt;8.N&lt;W2F&lt;'QO&lt;(:D&lt;'&amp;T=Q!!%EBB&gt;8.N&lt;W2F&lt;'QO&lt;(:D&lt;'&amp;T=Q!!'U"Q!#!!!1!&amp;!!Z)986T&lt;7^E:7RM)%^66!!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A35Y!!"N!#A!65W^M98*F)%&gt;F&gt;WFO&lt;G5A7V=P&lt;4*&gt;!"N!#A!6186T=W6O&gt;'6N='6S982V=C"&lt;M%.&gt;!"F!=!!A!!%!"1!.3'&amp;V=WVP:'6M&lt;#"*4A"5!0!!$!!$!!1!"!!'!!1!"!!%!!1!"Q!)!!E!#A-!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!I!!!!+!!!!#!!!!!!"!!M!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">268435456</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="Hausmodell.ReadZustandsgrössen.vi" Type="VI" URL="../Hausmodell.ReadZustandsgrössen.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'I!!!!$1!S1(!!(A!!&amp;"*)986T&lt;7^E:7RM,GRW9WRB=X-!!"*)986T&lt;7^E:7RM,GRW9WRB=X-!!"F!=!!A!!%!!!!.3'&amp;V=WVP:'6M&lt;#"J&lt;A!%!!!!$%!B"H.U982V=Q!!#U!$!!2D&lt;W2F!!!11$$`````"H.P&gt;8*D:1!!&amp;E"1!!-!!Q!%!!5):8*S&lt;X)A;7Y!!"N!=!!A!!%!!!!/3'&amp;V=WVP:'6M&lt;#"P&gt;81!!"F!#A!45G&amp;V&lt;82F&lt;8"F=G&amp;U&gt;8)A7\"$81!&lt;1!I!&amp;%*P:'6O&gt;'6N='6S982V=C"&lt;M%.&gt;!!!L1!I!*6,]9WNM986G&gt;'6N='6S982V=C"):7F[;X*F;8.M986G)&amp;OQ1VU!&amp;E"1!!-!!Q!%!!5*:8*S&lt;X)A&lt;X6U!)1!]!!5!!%!!A!#!!)!!A!'!!)!!A!#!!)!!A!#!!)!!A!(!!)!#!!*!!I!#Q-!!2!!!!A!!!!!!!!!!!!!!!!!!!!!!!!!#A!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!$1!!!!!!!!!*!!!!#1!!!!E!!!!."1!!!!%!$!!!!!!</Property>
