@@ -1,4 +1,28 @@
 Date/Time	Error Code	Error Details	Caller	Comment	Stopped	ClusterString	
+181128 100646	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 100414	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 100224	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 095311	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 094647	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 094211	1144	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	MainUI.vi		Reset	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	0
+181128 094210	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 094131	1144	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	MainUI.vi		Reset	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	0
+181128 094131	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 094108	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 093806	1144	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	MainUI.vi		Reset	Invoke Node in MainUI.vi<APPEND>Method Name: <b>Insert VI</b>	0
+181128 093805	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 091836	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 091651	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 091352	1556	In Place Element Structure in Umgebung.lvclass:Umgebung.KalenderUhr.vi->Simulation.lvclass:Simulation.CalcNextIteration.vi->Simulation.lvclass:Simulation.Main.vi	Simulation.lvclass:Simulation.Main.vi		Reset	In Place Element Structure in Umgebung.lvclass:Umgebung.KalenderUhr.vi->Simulation.lvclass:Simulation.CalcNextIteration.vi->Simulation.lvclass:Simulation.Main.vi	0
+181128 091352	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 090922	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 090109	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 090018	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 085811	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 085706	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
+181128 084824	1556	In Place Element Structure in Wärmepumpe.lvclass:Wärmepumpe.Heizleistung.vi->Simulation.lvclass:Simulation.CalcNextIteration.vi->Simulation.lvclass:Simulation.Main.vi	Simulation.lvclass:Simulation.Main.vi		Reset	In Place Element Structure in Wärmepumpe.lvclass:Wärmepumpe.Heizleistung.vi->Simulation.lvclass:Simulation.CalcNextIteration.vi->Simulation.lvclass:Simulation.Main.vi	0
+181128 084824	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
+181128 084521	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
 181127 223236	0	Software Ended	MainUI.vi	Software Ended	Reset	Software Ended	0
 181127 223101	0	ErrorHandler Ref Not Found	Simulation.lvclass:Simulation.Main.vi		Reset	ErrorHandler Ref Not Found	0
 181127 223101	0	Software Started	Main.vi	Software Started	Reset	Software Started	0
